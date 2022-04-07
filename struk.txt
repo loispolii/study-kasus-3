@@ -1,0 +1,16 @@
+        MAKANAN           
+==========================
+ Menu Makanan dan Harga   
+1. Ayprek    : Rp21.000 
+2. Aygor     : Rp17.000 
+3. cumgor    : Rp20.000 
+4. Aybak     : Rp25.000 
+
+=========================
+
+Total harga yang dipesan : 273000
+Biaya delivery : 17000
+Total diskon : 95550
+Jumlah total yang harus di bayar : 194450
+Uang anda : 200000
+Kembalian : 5550
